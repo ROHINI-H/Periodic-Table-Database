@@ -4,6 +4,7 @@
 This repository contains my solution to the FreeCodeCamp "Build a Periodic Table Database" challenge as part of **Relational Database Course**. For this project, I have created a Bash script to get information about chemical elements from a periodic table database.
 
 ## 🏆FCC Challenge Link
+If you want to try this challenge, follow this link:   
 https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database
 
 ## 📜Instructions
